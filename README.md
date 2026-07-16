@@ -21,21 +21,37 @@ Geolocation
 Project Structure
 olist-sql-retail-analytics/
 │
+
 ├── README.md
+
 ├── .gitignore
+
 │
+
 ├── data/
+
 │   ├── customers_sample.csv
+
 │   ├── orders_sample.csv
+
 │   ├── order_items_sample.csv
+
 │   ├── products_sample.csv
+
 │   └── payments_sample.csv
+
 │
+
 ├── sql/
+
 │   ├── schema.sql
+
 │   └── analysis.sql
+
 │
+
 └── diagrams/
+   
     └── olist_erd.png
     
 Database Schema
